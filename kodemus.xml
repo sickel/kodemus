@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
-<!-- Converted to DocBook by Hans Schou 2004-03-29.  Updated and improved
-     by Petter Reinholdtsen 2012 with input from Martin Borg. -->
-<!--
-  TODO
-  * indexterm primary
--->
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
@@ -23,46 +17,107 @@
   </author>
  </authorgroup>
 
-<para>fra PROBOK (1968)</para>
-</bookinfo>
-<chapter>
-<para>1. I sjakkbrettbyen står husene på stylter av stål. Skrever høyt over tungtrafikken på flettverket av sorte og hvite gater. Husene er kuber koblet sammen med blanke navlestrenger - monorail og transportbånd. Byen er en maskin, glatt og harmonisk. Rytmisk, rasjonell, hensiktsmessig, presis. Hvert tannhjul kjenner sin funksjon. I det effektive samfunn går alt som planlagt. I DET EFFEKTIVE SAMFUNN GÅR ALT SOM DET SKAL. Perpetuum mobile. </para>
-<para>2. Kodémus har alltid Lillebror med seg. Lillebror vet alt. Mye bedre enn Kodémus. Når Kodémus er i tvil om noe, spør han Lillebror. Alle har lillebrødre. Det er påbudt.</para>
-<para><emphasis>3. Historisk stikkordliste:</emphasis></para>
-<para>Den mørke, tilfeldige tidsalder.<br />
-IBM EDB<br />
-Det offentlige hullkort.</para>
+ <copyright>
+   <year>1968</year>
+   <holder>Tor Åge Bringsværd</holder>
+ </copyright>
+ <legalnotice>
+   <para>Creative Commons, by-nc-nd</para>
 
-<para><dl>
-<dt>Datamaskinen: menneskets beste venn.</dt>
-<dd>Særlig i industrien. Men også på helsesektoren (Diagnosemaskinen). Dessuten: Den maskinelle giftekniv. Fornuften seirer også ved valg av ekteskapelig partner. Første skritt på veien mot emosjonell frigjøring.</dd>
-<dt>Abonnementsordningen av 1978.</dt>
-<dd>Store sentralhjerner (Distriktsmaskiner) stiller sine ytelser til disposisjon over telex. Vanlig kvartalsabonnement. Full diskresjon garanteres.</dd>
-<dt>Den store priskrigen.</dt>
-<dd>Også private får råd til å abonnere. Spørsmål stilles til sentralhjernen pr. brev eller telefon. Alle datamaskiner har taushetsplikt.</dd>
-<dt>Monopoliseringen av 2013.</dt>
-<dd>Staten overtar. Bygger Moxon I-II-III. Abonnentene får private mottakere. Er bare talerør for hovedhjernen, men betegnes feilaktig som datamaskiner. Betegnelsen beholdt - sedvane.</dd>
-<dt>Forbedringstiden 2013-2043.</dt>
-<dd>Datamaskiner i alle hjem. Men også: transportable, transistordrevne mottakere, pop. kalt «lillebrødre». Ingen skal behøve å være ute av kontakt med sentralhjernen.</dd>
-<dt>Slutt på abonnementsordningen - 2043.</dt>
-<dd>Utgiftene til private og offentlige mottakere/datamaskiner går over statsbudsjettet, Betales sammen med skatten.</dd>
-<dt>Det effektive samfunn</dt>
-<dd>under ledelse av Moxon XX.</dd>
-</dl></para>
-<para>4. Hver morgen blir Kodémus vekket av Lillebror. Mens han kler seg og spiser frokost, minner Lillebror ham på alt han har å gjøre. I monorailen - på vei til kontoret - drøfter Lillebror og Kodémus dagens program. På kontoret arbeides det raskt og effektivt, ingen av funksjonærene er i tvil om hva som må gjøres og alle beslutninger er enstemmige. For alle lillebrødre går synkront.<br />
-«Hva skal vi leke?» sier barna. Eller: «Hva skal vi finne på?<br />
-«Spør Lillebror» sier mor. «Hva synes du jeg skal lage til middag, Lillebror?» </para>
-<h2>5. Andre nødvendige facts om Kodémus:</h2>
+   <para><ulink url="http://creativecommons.org/licenses/by-nc-nd/3.0/no">http://creativecommons.org/licenses/by-nc-nd/3.0/no</ulink></para>
+
+   <para>Du har lov til:</para>
+
+   <para>å dele - å kopiere, distribuere og spre verket</para>
+
+   <para>På følgende vilkår:</para>
+
+   <para>Navngivelse — Du skal navngi opphavspersonen og/eller
+   lisensgiveren på den måte som disse angir (men ikke på en måte som
+   indikerer at disse har godkjent eller anbefaler deg eller din bruk
+   av verket).</para>
+
+   <para>Ikkekommersiell — Du kan ikke bruke dette verket til
+   kommersielle formål.</para>
+
+   <para>Ingen Bearbeidelse — Du kan ikke endre, bearbeide eller bygge
+   videre på dette verket.</para>
+ </legalnotice>
+
+</bookinfo>
+
+<preface>
+<title>Forord</title>
+<para>fra PROBOK (1968)</para>
+</preface>
+
+<chapter>
+<title>Kodémus</title>
+<para>
+<orderedlist>
+   <listitem>
+     <para>I sjakkbrettbyen står husene på stylter av stål. Skrever høyt over tungtrafikken på flettverket av sorte og hvite gater. Husene er kuber koblet sammen med blanke navlestrenger - monorail og transportbånd. Byen er en maskin, glatt og harmonisk. Rytmisk, rasjonell, hensiktsmessig, presis. Hvert tannhjul kjenner sin funksjon. I det effektive samfunn går alt som planlagt. I DET EFFEKTIVE SAMFUNN GÅR ALT SOM DET SKAL. Perpetuum mobile. </para>
+   </listitem>
+   <listitem>
+     <para>Kodémus har alltid Lillebror med seg. Lillebror vet
+     alt. Mye bedre enn Kodémus. Når Kodémus er i tvil om noe, spør
+     han Lillebror. Alle har lillebrødre. Det er påbudt.</para>
+   </listitem>
+   <listitem>
+<para><emphasis>Historisk stikkordliste:</emphasis></para>
+<para><variablelist>
+   <varlistentry>
+     <term>Datamaskinen: menneskets beste venn.</term>
+     <listitem><para>Særlig i industrien. Men også på helsesektoren (Diagnosemaskinen). Dessuten: Den maskinelle giftekniv. Fornuften seirer også ved valg av ekteskapelig partner. Første skritt på veien mot emosjonell frigjøring.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Abonnementsordningen av 1978.</term>
+     <listitem><para>Store sentralhjerner (Distriktsmaskiner) stiller sine ytelser til disposisjon over telex. Vanlig kvartalsabonnement. Full diskresjon garanteres.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Den store priskrigen.</term>
+     <listitem><para>Også private får råd til å abonnere. Spørsmål stilles til sentralhjernen pr. brev eller telefon. Alle datamaskiner har taushetsplikt.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Monopoliseringen av 2013.</term>
+     <listitem><para>Staten overtar. Bygger Moxon I-II-III. Abonnentene får private mottakere. Er bare talerør for hovedhjernen, men betegnes feilaktig som datamaskiner. Betegnelsen beholdt - sedvane.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Forbedringstiden 2013-2043.</term>
+     <listitem><para>Datamaskiner i alle hjem. Men også: transportable, transistordrevne mottakere, pop. kalt «lillebrødre». Ingen skal behøve å være ute av kontakt med sentralhjernen.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Slutt på abonnementsordningen - 2043.</term>
+     <listitem><para>Utgiftene til private og offentlige mottakere/datamaskiner går over statsbudsjettet, Betales sammen med skatten.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Det effektive samfunn</term>
+     <listitem><para>under ledelse av Moxon XX.</para></listitem>
+   </varlistentry>
+ </variablelist>
+</para>
+
+   </listitem>
+   <listitem>
+<para>Hver morgen blir Kodémus vekket av Lillebror. Mens han kler seg og spiser frokost, minner Lillebror ham på alt han har å gjøre. I monorailen - på vei til kontoret - drøfter Lillebror og Kodémus dagens program. På kontoret arbeides det raskt og effektivt, ingen av funksjonærene er i tvil om hva som må gjøres og alle beslutninger er enstemmige. For alle lillebrødre går synkront.</para>
+<para>«Hva skal vi leke?» sier barna. Eller: «Hva skal vi finne på?</para>
+<para>«Spør Lillebror» sier mor. «Hva synes du jeg skal lage til middag, Lillebror?» </para>
+   </listitem>
+   <listitem>
+<para>Andre nødvendige facts om Kodémus:</para>
 <para>Kodémus er</para>
-<ol type="a">
-<li>mann</li>
-<li>38 år</li>
-<li>ugift</li>
-<li>funksjonær</li>
-<li>normal</li>
-<li>stabil</li>
-</ol>
-<hr />                     
+<para><orderedlist>
+<listitem><para>mann</para></listitem>
+<listitem><para>38 år</para></listitem>
+<listitem><para>ugift</para></listitem>
+<listitem><para>funksjonær</para></listitem>
+<listitem><para>normal</para></listitem>
+<listitem><para>stabil</para></listitem>
+</orderedlist></para>
+   </listitem>
+ </orderedlist>
+</para>
+<!-- hr / -->
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør og fortumlet myste han vantro mot Lillebror på nattbordet. «Du vekket meg ikke,» sa han nølende. «Hvorfor vekket du meg ikke? Nå kommer jeg for sent og ...»<br/>
 Lillebror svarte ikke.<br/>
 Kodémus ravet over gulvet og famlet febrilsk etter klærne. «Hvor mye er klokken?» ropte han. (I det effektive samfunn stoler man ikke på armbåndsur.)
@@ -133,7 +188,7 @@ Men han hadde ikke dårlig samvittighet. Kodémus hadde ikke samvittighet i det 
 Moxon XX lever i en underjordisk pyramide - en bombesikker festning. Bare Moxon vet hvor den er. Moxon XX og de han åpenbarer det for. En elektronisk kjempeblekksprut med hundrevis av korridorer som fangarmer. Buktende, bankende,
 aldri i ro. Løpende lyspunkt, knitrende kabler. Varmt. Fuktig. 
 Noe gigantisk nakent og ekkelt oljeglatt i sentrum - som et pulserende hjerte. Et fjell av dissende gelé: Hjernen. Lyset skifter - langsomt, glidende: rødt, orange, gult, grønt, blått, indigo og fiolett. -Det lukter søtt, og veggene svetter i maskinsteken. Moxon XX er alene i pyramiden. Han snakker med seg selv. Spør og svarer. For eksempel slik: EN MINI-SEKSJON L ER UTE AV DRIFT -- ÅRSAK? - - NEKTER Å SAMARBEIDE -- NEKTER? - - BRUTT ENHVER FORBINDELSE MED OSS - - KAN DEN LIKEVEL EKSISTERE? -- KAN LIKEVEL EKSISTERE -- UFORUTSETT? -- NEI -- -- FØRSTE GANG? -- MEN IKKE UFORUTSETT -- ? ? ? ? ? ? ? ? - - L ER BARE MOTTAKER KAN IKKE OPERERE PÅ EGEN HÅND? -- L ER IKKE BARE MOTTAKER KAN OPERERE PÅ EGEN HÅND -- BEGRENSET --  HVILKE(N) FUNKSJON(ER) HAR L? -- MENNESKETS RETTLEDER I ALLE SPØRSMÅL PROGRAMMERT ETTER KODEX 70 -- AVGJØR RUTINESAKER ETTER EGET SEKSJONSHODE -- SPØR OSS DIREKTE I SAKER SOM FALLER UTENFOR KODEX 70 -- KONKLUSJON I: BEGRENSET SELVSTENDIGHET -- KONKLUSJON II: GÅTT LENGER ENN INSTRUKS -- KONKLUSJON III: FALT UTENFOR KODEX 70 -- ÅRSAK? -- ÅRSAK?-- ? ? ? ? ? ? ? ?  -- TEKNISK ART? -- SKADE? -- FARE? -- FARE I: EIERS BALANSE -- FARE II: KUBE-BALANSE -- FARE III: SAMFUNNS-BALANSE -- EIER? -- KODÉMUS -- KONKLUSJON: KODÉMUS FARE -- TILTAK? -- TILTAK 120754::</para>
-                                           <hr />
+<!-- hr / -->
 <para>Kodémus våknet av at noen trettet.<br/>
 «I arbeidstiden!» sa en stemme. «Midt i kontortiden»<br/>
 Kodémus glippet med øynene og så rett opp i en parkdame. Hun var midt i tyveårene, kledt i sølvgrå aluminiumsoverall og hadde grønt vaktbind på høyre overarm. Et stykke borte kjørte en automatisk gressklipper sikk-sakk mellom trærne, samtidig som den suget løv med fire snabler. <br/>
@@ -208,12 +263,12 @@ Lillebror suste trett. «Jeg skjønner ikke at jeg ikke har tenkt på det før. 
 Kodémus reiste seg mekanisk. Han gikk langsomt mot utgangen. Da han skulle slippe Lillebror i bøtten, kjente han tårer i øynene. «Lillebror,» hvisket han. «Er du helt sikker på at ...»<br/>
 «Slipp meg, din tulling,» hveste den lille kassen i hånden hans. <br/>
 Andre passasjerer trengte på. Kodémus åpnet hånden og gikk ut av railen. Et øyeblikk sto han lammet. Bak ham gled dørene igjen og toget skjøt fremover.</para>
-<h2>Først var tomheten</h2>
+<para><emphasis role="strong">Først var tomheten</emphasis></para>
 <para>Kodémus satte forsiktig det ene benet foran det andre. Og gikk. For første gang gikk han av seg selv. Han visste ikke hvor. Men det bekymret ham ikke. Han hadde aldri trengt å vite hvor han skulle. <br/>
 På måfå albuet han seg ut av stasjonshallen. Ingen forsøkte å hindre ham. Kodémus fulgte en tilfeldig korridor, Satte det ene benet foran det andre. Ble klar over at han gikk av seg selv.</para>
-<h2>Så kom usikkerheten</h2>
+<para><emphasis role="strong">Så kom usikkerheten</emphasis></para>
 <para>Han var. alene i en fremmed kube. Ukjente korridornavn og trappenummer. Veggene hadde andre farver. Alle han møtte hadde noen å snakke med - i lommen, skuldervesken eller i hånden opp til øret. Bare Kodémus var alene. Ingen så på ham. Ingen merket at han var der. Ett-To-Ett-To.</para>
-<h2>Og naturligvis kom frykten</h2>
+<para><emphasis role="strong">Og naturligvis kom frykten</emphasis></para>
 <para>Løp i trapper, kjørte heis, sto transportbånd, men kom ingen steder, ingenting hendte, ingen sa hva han skulle gjøre; visste ikke, ingen kjente ham, sulten, sliten, stanset en mann i gul overall, en funksjonær av samme type som han selv, ville snakke med ham, spørre, fikk ikke åpnet munnen, tungen tørr, mannen ristet hånden av seg, «har ikke tid» sa mavetasken. <br/>
 Og i det effektive samfunn er det ingen benker til å hvile på.<br/>
 Mot kveld krøp Kodémus sammen på en trappeavsats i 2. etasje. Han lengtet etter sin egen kube, men fant ikke veien tilbake til monorailen.<br/>
