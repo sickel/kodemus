@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
-<!-- Converted to DocBook by Hans Schou 2004-03-29.  Updated and improved
-     by Petter Reinholdtsen 2012 with input from Martin Borg. -->
-<!--
-  TODO
-  * indexterm primary
--->
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
 "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
 [
@@ -23,45 +17,111 @@
   </author>
  </authorgroup>
 
-<para>fra PROBOK (1968)</para>
-</bookinfo>
-<chapter>
-<para>1. I sjakkbrettbyen står husene på stylter av stål. Skrever høyt over tungtrafikken på flettverket av sorte og hvite gater. Husene er kuber koblet sammen med blanke navlestrenger - monorail og transportbånd. Byen er en maskin, glatt og harmonisk. Rytmisk, rasjonell, hensiktsmessig, presis. Hvert tannhjul kjenner sin funksjon. I det effektive samfunn går alt som planlagt. I DET EFFEKTIVE SAMFUNN GÅR ALT SOM DET SKAL. Perpetuum mobile. </para>
-<para>2. Kodémus har alltid Lillebror med seg. Lillebror vet alt. Mye bedre enn Kodémus. Når Kodémus er i tvil om noe, spør han Lillebror. Alle har lillebrødre. Det er påbudt.</para>
-<para><emphasis>3. Historisk stikkordliste:</emphasis></para>
-<para>Den mørke, tilfeldige tidsalder.<br />
-IBM EDB<br />
-Det offentlige hullkort.</para>
+ <copyright>
+   <year>1968</year>
+   <holder>Tor Åge Bringsværd</holder>
+ </copyright>
+ <legalnotice>
+   <para>Creative Commons, by-nc-nd</para>
 
-<para><dl>
-<dt>Datamaskinen: menneskets beste venn.</dt>
-<dd>Særlig i industrien. Men også på helsesektoren (Diagnosemaskinen). Dessuten: Den maskinelle giftekniv. Fornuften seirer også ved valg av ekteskapelig partner. Første skritt på veien mot emosjonell frigjøring.</dd>
-<dt>Abonnementsordningen av 1978.</dt>
-<dd>Store sentralhjerner (Distriktsmaskiner) stiller sine ytelser til disposisjon over telex. Vanlig kvartalsabonnement. Full diskresjon garanteres.</dd>
-<dt>Den store priskrigen.</dt>
-<dd>Også private får råd til å abonnere. Spørsmål stilles til sentralhjernen pr. brev eller telefon. Alle datamaskiner har taushetsplikt.</dd>
-<dt>Monopoliseringen av 2013.</dt>
-<dd>Staten overtar. Bygger Moxon I-II-III. Abonnentene får private mottakere. Er bare talerør for hovedhjernen, men betegnes feilaktig som datamaskiner. Betegnelsen beholdt - sedvane.</dd>
-<dt>Forbedringstiden 2013-2043.</dt>
-<dd>Datamaskiner i alle hjem. Men også: transportable, transistordrevne mottakere, pop. kalt «lillebrødre». Ingen skal behøve å være ute av kontakt med sentralhjernen.</dd>
-<dt>Slutt på abonnementsordningen - 2043.</dt>
-<dd>Utgiftene til private og offentlige mottakere/datamaskiner går over statsbudsjettet, Betales sammen med skatten.</dd>
-<dt>Det effektive samfunn</dt>
-<dd>under ledelse av Moxon XX.</dd>
-</dl></para>
-<para>4. Hver morgen blir Kodémus vekket av Lillebror. Mens han kler seg og spiser frokost, minner Lillebror ham på alt han har å gjøre. I monorailen - på vei til kontoret - drøfter Lillebror og Kodémus dagens program. På kontoret arbeides det raskt og effektivt, ingen av funksjonærene er i tvil om hva som må gjøres og alle beslutninger er enstemmige. For alle lillebrødre går synkront.<br />
+   <para><ulink url="http://creativecommons.org/licenses/by-nc-nd/3.0/no">http://creativecommons.org/licenses/by-nc-nd/3.0/no</ulink></para>
+
+   <para>Du har lov til:</para>
+
+   <para>å dele - å kopiere, distribuere og spre verket</para>
+
+   <para>På følgende vilkår:</para>
+
+   <para>Navngivelse — Du skal navngi opphavspersonen og/eller
+   lisensgiveren på den måte som disse angir (men ikke på en måte som
+   indikerer at disse har godkjent eller anbefaler deg eller din bruk
+   av verket).</para>
+
+   <para>Ikkekommersiell — Du kan ikke bruke dette verket til
+   kommersielle formål.</para>
+
+   <para>Ingen Bearbeidelse — Du kan ikke endre, bearbeide eller bygge
+   videre på dette verket.</para>
+ </legalnotice>
+
+</bookinfo>
+
+<preface>
+<title>Forord</title>
+<para>fra PROBOK (1968)</para>
+</preface>
+
+<chapter>
+<title>Kodémus</title>
+<para>
+<orderedlist>
+   <listitem>
+     <para>I sjakkbrettbyen står husene på stylter av stål. Skrever høyt over tungtrafikken på flettverket av sorte og hvite gater. Husene er kuber koblet sammen med blanke navlestrenger - monorail og transportbånd. Byen er en maskin, glatt og harmonisk. Rytmisk, rasjonell, hensiktsmessig, presis. Hvert tannhjul kjenner sin funksjon. I det effektive samfunn går alt som planlagt. I DET EFFEKTIVE SAMFUNN GÅR ALT SOM DET SKAL. Perpetuum mobile. </para>
+   </listitem>
+   <listitem>
+     <para>Kodémus har alltid Lillebror med seg. Lillebror vet
+     alt. Mye bedre enn Kodémus. Når Kodémus er i tvil om noe, spør
+     han Lillebror. Alle har lillebrødre. Det er påbudt.</para>
+   </listitem>
+   <listitem>
+<para><emphasis>Historisk stikkordliste:</emphasis></para>
+<para><variablelist>
+   <varlistentry>
+     <term>Den mørke, tilfeldige tidsalder.</term>
+     <listitem><para>IBM EDB</para>
+     <para>Det offentlige hullkort.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Datamaskinen: menneskets beste venn.</term>
+     <listitem><para>Særlig i industrien. Men også på helsesektoren (Diagnosemaskinen). Dessuten: Den maskinelle giftekniv. Fornuften seirer også ved valg av ekteskapelig partner. Første skritt på veien mot emosjonell frigjøring.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Abonnementsordningen av 1978.</term>
+     <listitem><para>Store sentralhjerner (Distriktsmaskiner) stiller sine ytelser til disposisjon over telex. Vanlig kvartalsabonnement. Full diskresjon garanteres.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Den store priskrigen.</term>
+     <listitem><para>Også private får råd til å abonnere. Spørsmål stilles til sentralhjernen pr. brev eller telefon. Alle datamaskiner har taushetsplikt.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Monopoliseringen av 2013.</term>
+     <listitem><para>Staten overtar. Bygger Moxon I-II-III. Abonnentene får private mottakere. Er bare talerør for hovedhjernen, men betegnes feilaktig som datamaskiner. Betegnelsen beholdt - sedvane.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Forbedringstiden 2013-2043.</term>
+     <listitem><para>Datamaskiner i alle hjem. Men også: transportable, transistordrevne mottakere, pop. kalt «lillebrødre». Ingen skal behøve å være ute av kontakt med sentralhjernen.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Slutt på abonnementsordningen - 2043.</term>
+     <listitem><para>Utgiftene til private og offentlige mottakere/datamaskiner går over statsbudsjettet, Betales sammen med skatten.</para></listitem>
+   </varlistentry>
+   <varlistentry>
+     <term>Det effektive samfunn</term>
+     <listitem><para>under ledelse av Moxon XX.</para></listitem>
+   </varlistentry>
+ </variablelist>
+</para>
+
+   </listitem>
+   <listitem>
+<para>Hver morgen blir Kodémus vekket av Lillebror. Mens han kler seg og spiser frokost, minner Lillebror ham på alt han har å gjøre. I monorailen - på vei til kontoret - drøfter Lillebror og Kodémus dagens program. På kontoret arbeides det raskt og effektivt, ingen av funksjonærene er i tvil om hva som må gjøres og alle beslutninger er enstemmige. For alle lillebrødre går synkront.<br />
 «Hva skal vi leke?» sier barna. Eller: «Hva skal vi-finne på?<br />
 «Spør Lillebror» sier mor. «Hva synes du jeg skal lage til middag, Lillebror?» </para>
-<h2>5. Andre nødvendige facts om Kodémus:</h2>
+   </listitem>
+   <listitem>
+<para>Andre nødvendige facts om Kodémus:</para>
 <para>Kodémus er</para>
-<ol type="a">
-<li>mann</li>
-<li>38 år</li>
-<li>ugift</li>
-<li>funksjonær</li>
-<li>normal</li>
-<li>stabil</li>
-</ol>
+<para><orderedlist>
+<listitem><para>mann</para></listitem>
+<listitem><para>38 år</para></listitem>
+<listitem><para>ugift</para></listitem>
+<listitem><para>funksjonær</para></listitem>
+<listitem><para>normal</para></listitem>
+<listitem><para>stabil</para></listitem>
+</orderedlist></para>
+   </listitem>
+ </orderedlist>
+</para>
 <hr />                     
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør og fortumlet myste han vantro mot Lillebror på nattbordet. «Du vekket meg ikke,» sa han nølende. «Hvorfor vekket du meg ikke? Nå kommer jeg for sent og ...»<br/>
 Lillebror svarte ikke.<br/>
