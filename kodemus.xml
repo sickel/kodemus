@@ -45,13 +45,13 @@
 
 </bookinfo>
 
-<preface>
-<title>Forord</title>
+<dedication>
+<title></title>
 <para>fra PROBOK (1968)</para>
-</preface>
+</dedication>
 
-<chapter>
-<title>Kodémus</title>
+<preface>
+<title></title>
 <para><orderedlist>
    <listitem>
      <para>I sjakkbrettbyen står husene på stylter av stål. Skrever
@@ -150,8 +150,10 @@
  </orderedlist>
 </para>
 
-<!-- hr / -->
+</preface>
 
+<chapter>
+<title></title>
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør
 og fortumlet myste han vantro mot Lillebror på nattbordet. <quote>Du vekket
 meg ikke,</quote> sa han nølende. <quote>Hvorfor vekket du meg ikke? Nå kommer jeg
@@ -392,9 +394,10 @@ LENGER ENN INSTRUKS -- KONKLUSJON III: FALT UTENFOR KODEX 70 -- ÅRSAK?
 FARE I: EIERS BALANSE -- FARE II: KUBE-BALANSE -- FARE III:
 SAMFUNNS-BALANSE -- EIER? -- KODÉMUS -- KONKLUSJON: KODÉMUS FARE --
 TILTAK? -- TILTAK 120754::</para>
+</chapter>
 
-<!-- hr / -->
-
+<chapter>
+<title></title>
 <para>Kodémus våknet av at noen trettet.</para>
 
 <para><quote>I arbeidstiden!</quote> sa en stemme. <quote>Midt i kontortiden</quote></para>
