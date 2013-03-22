@@ -12,6 +12,8 @@ lint: kodemus.xml
 		xsltproc --output tmp.fo \
 		  --stringparam paper.type A4 \
 		  --stringparam generate.toc nop \
+		  --stringparam double.sided 0 \
+		  --stringparam fop1.extensions 1 \
 		  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
 		  $< ; \
 		fop -fo tmp.fo -pdf $@ ; \
