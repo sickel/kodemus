@@ -6,25 +6,21 @@ lint: kodemus.xml
 	xmllint $(XMLLINTOPTS) $<
 
 %.pdf: %.xml
-	if true ; then \
+	if false ; then \
 		dblatex -T simple -P latex.class.options=a4paper $< ; \
 	else \
 		xsltproc --output tmp.fo \
-		  --stringparam paper.type A4 \
-		  --stringparam generate.toc nop \
-		  --stringparam double.sided true \
-		  --stringparam fop1.extensions 1 \
-		  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
+		  stylesheet-fo.xsl \
 		  $< ; \
 		fop -fo tmp.fo -pdf $@ ; \
 	fi
 
 %.epub: %.xml
-	dbtoepub $<
+	dbtoepub -s stylesheet-epub.xsl $<
 %.txt: %.xml
 	xmlto txt --stringparam generate.toc=nop $<
 %.html: %.xml
-	xmlto html-nochunks --stringparam generate.toc=nop $<
+	xmlto -x stylesheet-html.xsl html-nochunks $<
 
 clean:
 	$(RM) $(TARGETS)

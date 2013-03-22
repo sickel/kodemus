@@ -85,9 +85,7 @@ full av vitalitet og aktualitet, og som derfor kan bidra til, og gi
 ettertanke i dagens debatter om IT, personvern, overvåkning og
 individets frihet og integritet.</para>
 
-<para>Thomas Gramstad, thomas@efn.no</para>
-
-<para>(leder for EFN)</para>
+<para>Thomas Gramstad, thomas@efn.no <?linebreak?> (leder for EFN)</para>
 
 <para>Oslo, 22. mars 2013</para>
 
@@ -114,6 +112,11 @@ individets frihet og integritet.</para>
    <listitem>
 <para><emphasis>Historisk stikkordliste:</emphasis></para>
 <para><variablelist>
+   <varlistentry>
+     <term>Den mørke, tilfeldige tidsalder.</term>
+     <listitem><para>IBM EDB
+     <?linebreak?> Det offentlige hullkort.</para></listitem>
+   </varlistentry>
    <varlistentry>
      <term>Datamaskinen: menneskets beste venn.</term>
      <listitem><para>Særlig i industrien. Men også på helsesektoren
@@ -169,13 +172,11 @@ individets frihet og integritet.</para>
      Kodémus dagens program. På kontoret arbeides det raskt og
      effektivt, ingen av funksjonærene er i tvil om hva som må gjøres
      og alle beslutninger er enstemmige. For alle lillebrødre går
-     synkront.</para>
-
-     <para><quote>Hva skal vi leke?</quote> sier barna. Eller: <quote>Hva skal vi finne
-     på?</quote></para>
-
-     <para><quote>Spør Lillebror</quote> sier mor. <quote>Hva synes du jeg skal lage til
-     middag, Lillebror?</quote> </para>
+     synkront.
+     <?linebreak?><quote>Hva skal vi leke?</quote> sier barna. Eller:
+     <quote>Hva skal vi finne på?</quote>
+     <?linebreak?><quote>Spør Lillebror</quote> sier mor. <quote>Hva
+     synes du jeg skal lage til middag, Lillebror?</quote> </para>
 
    </listitem>
    <listitem>
@@ -195,21 +196,21 @@ individets frihet og integritet.</para>
 <para>*</para>
 
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør
-og fortumlet myste han vantro mot Lillebror på nattbordet. <quote>Du vekket
-meg ikke,</quote> sa han nølende. <quote>Hvorfor vekket du meg ikke? Nå kommer jeg
-for sent og &hellip;</quote></para>
-
-<para>Lillebror svarte ikke.</para>
-
-<para>Kodémus ravet over gulvet og famlet febrilsk etter klærne. <quote>Hvor
+og fortumlet myste han vantro mot Lillebror på nattbordet. <quote>Du
+vekket meg ikke,</quote> sa han nølende. <quote>Hvorfor vekket du meg
+ikke? Nå kommer jeg for sent og &hellip;</quote>
+<?linebreak?>
+Lillebror svarte ikke.
+<?linebreak?>
+Kodémus ravet over gulvet og famlet febrilsk etter klærne. <quote>Hvor
 mye er klokken?</quote> ropte han. (I det effektive samfunn stoler man ikke
-på armbåndsur.)  Men Lillebror tidde. </para>
-
-<para><quote>KLOKKEN, TAKK!</quote> brølte Kodémus. Han slapp buksen på. gulvet og
+på armbåndsur.)  Men Lillebror tidde.
+<?linebreak?>
+<quote>KLOKKEN, TAKK!</quote> brølte Kodémus. Han slapp buksen på. gulvet og
 bykset bort til nattbordet.. <quote>Jævla drittkasse,</quote> sa han rustent. <quote>Jeg
-<emphasis>spurte</emphasis> deg om noe</quote></para>
-
-<para>Det kom ikke en lyd fra den lille sorte kassen.</para>
+<emphasis>spurte</emphasis> deg om noe</quote>
+<?linebreak?>
+Det kom ikke en lyd fra den lille sorte kassen.</para>
 
 <para>Kodémus gryntet, løftet hånden og feide Lillebror i
 gulvet. Apparatet knaste mot stenflisene med en lyd som når barn
