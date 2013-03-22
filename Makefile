@@ -7,7 +7,7 @@ lint: kodemus.xml
 
 %.pdf: %.xml
 	if true ; then \
-		dblatex -T simple $< ; \
+		dblatex -T simple -P latex.class.options=a4paper $< ; \
 	else \
 	  xsltproc --output tmp.fo --stringparam paper.type A4 \
 	    /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
