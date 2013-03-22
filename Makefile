@@ -9,7 +9,9 @@ lint: kodemus.xml
 	if true ; then \
 		dblatex -T simple -P latex.class.options=a4paper $< ; \
 	else \
-		xsltproc --output tmp.fo --stringparam paper.type A4 \
+		xsltproc --output tmp.fo \
+		  --stringparam paper.type A4 \
+		  --stringparam generate.toc nop \
 		  /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
 		  $< ; \
 		fop -fo tmp.fo -pdf $@ ; \
@@ -18,9 +20,9 @@ lint: kodemus.xml
 %.epub: %.xml
 	dbtoepub $<
 %.txt: %.xml
-	xmlto txt $<
+	xmlto txt --stringparam generate.toc=nop $<
 %.html: %.xml
-	xmlto html-nochunks $<
+	xmlto html-nochunks --stringparam generate.toc=nop $<
 
 clean:
 	$(RM) $(TARGETS)
