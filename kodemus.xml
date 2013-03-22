@@ -21,98 +21,95 @@
    <holder>Tor Åge Bringsværd</holder>
  </copyright>
  <legalnotice>
-   <para>Creative Commons, by-nc-nd</para>
-
-   <para><ulink url="http://creativecommons.org/licenses/by-nc-nd/3.0/no">http://creativecommons.org/licenses/by-nc-nd/3.0/no</ulink></para>
-
-   <para>Du har lov til:</para>
-
-   <para>å dele - å kopiere, distribuere og spre verket</para>
-
-   <para>På følgende vilkår:</para>
-
-   <para>Navngivelse — Du skal navngi opphavspersonen og/eller
-   lisensgiveren på den måte som disse angir (men ikke på en måte som
-   indikerer at disse har godkjent eller anbefaler deg eller din bruk
-   av verket).</para>
-
-   <para>Ikkekommersiell — Du kan ikke bruke dette verket til
-   kommersielle formål.</para>
-
-   <para>Ingen Bearbeidelse — Du kan ikke endre, bearbeide eller bygge
-   videre på dette verket.</para>
+   <para>Denne utgivelsen av Tor Åge Bringsværds novelle Kodémus er
+   utgitt under fribrukslisensen Creative Commons
+   Navngivelse-Ikkekommersiell-Ingen bearbeidelse (by-nc-nd) 3.0:
+   <ulink url="http://creativecommons.org/licenses/by-nc-nd/3.0/no/">http://creativecommons.org/licenses/by-nc-nd/3.0/no/</ulink></para>
  </legalnotice>
-
+ <isbn>978-82-92812-01-3</isbn> <!-- format 1 -->
+ <isbn>978-82-92812-02-0</isbn> <!-- format 2 -->
+ <isbn>978-82-92812-03-7</isbn> <!-- format 3 -->
+ <isbn>978-82-92812-04-4</isbn> <!-- format 4 -->
+ <isbn>978-82-92812-05-1</isbn> <!-- format 5 -->
+ <isbn>978-82-92812-06-8</isbn> <!-- format 6 -->
 </bookinfo>
 
-<dedication>
-<title></title>
-<para>fra PROBOK (1968)</para>
-</dedication>
 <preface>
-  <title>FORORD OG INFORMASJON OM DENNE UTGIVELSEN</title>
-     <para>Elektronisk Forpost Norge (EFN) er veldig glad for anledningen til
-å nyutgi Tor Åge Bringsværds novelle Kodémus i digitalt format for
+<title>Forord og informasjon om denne utgivelsen</title>
+
+<para>Elektronisk Forpost Norge (EFN) er veldig glad for anledningen
+til å nyutgi Tor Åge Bringsværds novelle Kodémus i digitalt format for
 nye (og gamle) generasjoner. Novellen ble skrevet så tidlig som
 vinteren 1968, og første gang trykt i novellesamlingen Probok på
-Gyldendal samme år. Noen år senere ble den utgitt på nytt i
-Karavane, en novellesamling i Gyldendals Lanterne-serie (1974).
-Informasjonsteknologi spiller en sentral rolle i Kodémus, og det
-er spennende å sammenligne beskrivelsen av IT fra 1968 med dagens
-IT i 2013. Forskjellene er mange -- men det er jammen likhetene
-også. Ikke minst det at idag går jo nesten alle rundt med
-  <quote>lillebrødre</quote> på seg!</para><para>
-Riktignok er det ikke påbudt å ha mobil, men vi holder på å lage
-et samfunn der det blir så upraktisk eller tungvint å ikke ha det,
-at man i praksis ikke slipper unna. Og disse lillebrødrene sladrer
-hele tiden til staten (og til mange andre) om hvor vi er, hva vi
-gjør, hva vi bryr oss om, hva vi liker...</para><para>
-Det at Kodémus åpenbart er skrevet i en annen tid med en annen
-type IT og likevel virker så relevant og slående idag, er i seg
-selv et tankekors som setter ting i perspektiv.</para><para>
-IT og science fiction er to interesser som ofte går hånd i hånd,
-og mange av EFNs medlemmer har vokst opp med romanene og novellene
-til Tor Åge Bringsværd (og hans forfatterkollega Jon Bing, som han
-skrev og redigerte mange bøker sammen med).</para><para>
-Tross sitt IT-tema fantes ikke Kodémus i elektronisk form, og
+Gyldendal samme år. Noen år senere ble den utgitt på nytt i Karavane,
+en novellesamling i Gyldendals Lanterne-serie (1974).</para>
+
+<para>Informasjonsteknologi spiller en sentral rolle i Kodémus, og det
+er spennende å sammenligne beskrivelsen av IT fra 1968 med dagens IT i
+2013. Forskjellene er mange -- men det er jammen likhetene også. Ikke
+minst det at idag går jo nesten alle rundt med
+<quote>lillebrødre</quote> på seg!</para>
+
+<para>Riktignok er det ikke påbudt å ha mobil, men vi holder på å lage
+et samfunn der det blir så upraktisk eller tungvint å ikke ha det, at
+man i praksis ikke slipper unna. Og disse lillebrødrene sladrer hele
+tiden til staten (og til mange andre) om hvor vi er, hva vi gjør, hva
+vi bryr oss om, hva vi liker...</para>
+
+<para>Det at Kodémus åpenbart er skrevet i en annen tid med en annen
+type IT og likevel virker så relevant og slående idag, er i seg selv
+et tankekors som setter ting i perspektiv.</para>
+
+<para>IT og science fiction er to interesser som ofte går hånd i hånd,
+og mange av EFNs medlemmer har vokst opp med romanene og novellene til
+Tor Åge Bringsværd (og hans forfatterkollega Jon Bing, som han skrev
+og redigerte mange bøker sammen med).</para>
+
+<para>Tross sitt IT-tema fantes ikke Kodémus i elektronisk form, og
 frivillige i EFN har skannet inn, OCR-tolket og korrekturlest
 novellen, og deretter kodet den i en rekke digitale formater, med
-utgangspunkt i Docbook. Roy Sigurd Karlsbakk, Peter Hansteen, Petter Reinholdtsen,
-Morten Sickel og undertegnede har stått sentralt i dette arbeidet.
-Novellen utgis med en Creative Commons (CC) fribrukslisens. For
-leserne eller brukerne innebærer dette at de får en klar og
+utgangspunkt i Docbook. Roy Sigurd Karlsbakk, Peter Hansteen, Petter
+Reinholdtsen, Morten Sickel og undertegnede har stått sentralt i dette
+arbeidet.  Novellen utgis med en Creative Commons (CC) fribrukslisens.
+For leserne eller brukerne innebærer dette at de får en klar og
 standardisert beskjed om rettighetene de har til å dele novellen
 videre med andre. For forfatteren innebærer dette økt synlighet og
 tilgjengelighet for verket, slik at det ikke blir glemt, da
-søkemotorer og nettlesere inneholder egne søkevalg for
-CC-lisenser, og mange brukere søker etter verk som de vet de kan
-dele på lovlig vis.</para><para>
-EFN utgir og deler med dette en novelle fra den digitale
-informasjonsteknologiens tidligste barndom. En novelle som
-fortsatt er full av vitalitet og aktualitet, og som derfor kan
-bidra til, og gi ettertanke i dagens debatter om IT, personvern,
-overvåkning og individets frihet og integritet.</para><para>
-Thomas Gramstad, thomas@efn.no</para><para>
-(leder for EFN)</para><para>
-Oslo, 22. mars 2013</para><para>
-Du finner Kodémus i ulike filformater her:</para><para>
-http://efn.no/kodemus/</para><para>
-Tor Åge Bringsværds nettsted finner du her:</para><para>
-http://web2.gyldendal.no/toraage/</para><para>
-Denne utgivelsen av Tor Åge Bringsværds novelle Kodémus er
-utgitt under fribrukslisensen Creative Commons
-Navngivelse-Ikkekommersiell-Ingen bearbeidelse (by-nc-nd) 3.0:
-http://creativecommons.org/licenses/by-nc-nd/3.0/no/</para><para>
-Filformat: .... </para><para>
-ISBN-nummer: ....</para><para>
-------------------------------------------------------------------</para><para>
-EFN arbeider for dine borgerrettigheter i IT-samfunnet, for
+søkemotorer og nettlesere inneholder egne søkevalg for CC-lisenser, og
+mange brukere søker etter verk som de vet de kan dele på lovlig
+vis.</para>
+
+<para>EFN utgir og deler med dette en novelle fra den digitale
+informasjonsteknologiens tidligste barndom. En novelle som fortsatt er
+full av vitalitet og aktualitet, og som derfor kan bidra til, og gi
+ettertanke i dagens debatter om IT, personvern, overvåkning og
+individets frihet og integritet.</para>
+
+<para>Thomas Gramstad, thomas@efn.no</para>
+
+<para>(leder for EFN)</para>
+
+<para>Oslo, 22. mars 2013</para>
+
+</preface>
+
+<colophon>
+<para>Du finner Kodémus i ulike filformater her:
+<ulink url="http://efn.no/kodemus/">http://efn.no/kodemus/</ulink></para>
+
+<para>Tor Åge Bringsværds nettsted finner du her:
+<ulink url="http://web2.gyldendal.no/toraage/">http://web2.gyldendal.no/toraage/</ulink></para>
+
+<para>Filformat: .... </para>
+
+<para>ISBN-nummer: ....</para>
+
+<para>EFN arbeider for dine borgerrettigheter i IT-samfunnet, for
 nettverks- og delingskultur, personvern og frihet fra overvåkning,
 åpne standarder, brukerstyrt programvare, retten til å kopiere, og
 styrking av det digitale sivilsamfunnet m.m.
-www.efn.no
-</para>
-</preface>
+<ulink url="http://www.efn.no/">www.efn.no</ulink></para>
+</colophon>
 <chapter>
 <title></title>
 <para><orderedlist>
