@@ -18,7 +18,7 @@ lint: kodemus.xml
 %.epub: %.xml
 	dbtoepub -s stylesheet-epub.xsl $<
 %.txt: %.xml
-	xmlto txt --stringparam generate.toc=nop $<
+	xmlto -x stylesheet-html.xsl txt $<
 %.html: %.xml
 	xmlto -x stylesheet-html.xsl html-nochunks $<
 
