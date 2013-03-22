@@ -93,25 +93,8 @@ individets frihet og integritet.</para>
 
 </preface>
 
-<colophon>
-<para>Du finner Kodémus i ulike filformater her:
-<ulink url="http://efn.no/kodemus/">http://efn.no/kodemus/</ulink></para>
-
-<para>Tor Åge Bringsværds nettsted finner du her:
-<ulink url="http://web2.gyldendal.no/toraage/">http://web2.gyldendal.no/toraage/</ulink></para>
-
-<para>Filformat: .... </para>
-
-<para>ISBN-nummer: ....</para>
-
-<para>EFN arbeider for dine borgerrettigheter i IT-samfunnet, for
-nettverks- og delingskultur, personvern og frihet fra overvåkning,
-åpne standarder, brukerstyrt programvare, retten til å kopiere, og
-styrking av det digitale sivilsamfunnet m.m.
-<ulink url="http://www.efn.no/">www.efn.no</ulink></para>
-</colophon>
 <chapter>
-<title></title>
+<title>Kodémus</title>
 <para><orderedlist>
    <listitem>
      <para>I sjakkbrettbyen står husene på stylter av stål. Skrever
@@ -210,10 +193,8 @@ styrking av det digitale sivilsamfunnet m.m.
  </orderedlist>
 </para>
 
-</chapter>
+<para>*</para>
 
-<chapter>
-<title></title>
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør
 og fortumlet myste han vantro mot Lillebror på nattbordet. <quote>Du vekket
 meg ikke,</quote> sa han nølende. <quote>Hvorfor vekket du meg ikke? Nå kommer jeg
@@ -454,10 +435,9 @@ LENGER ENN INSTRUKS -- KONKLUSJON III: FALT UTENFOR KODEX 70 -- ÅRSAK?
 FARE I: EIERS BALANSE -- FARE II: KUBE-BALANSE -- FARE III:
 SAMFUNNS-BALANSE -- EIER? -- KODÉMUS -- KONKLUSJON: KODÉMUS FARE --
 TILTAK? -- TILTAK 120754::</para>
-</chapter>
 
-<chapter>
-<title></title>
+<para>*</para>
+
 <para>Kodémus våknet av at noen trettet.</para>
 
 <para><quote>I arbeidstiden!</quote> sa en stemme. <quote>Midt i kontortiden</quote></para>
@@ -763,4 +743,22 @@ hva som må gjøres og alle beslutninger er enstemmige. Alle
 Lillebrødrene går synkront.</para>
 
 </chapter>
+
+<colophon>
+<para>Du finner Kodémus i ulike filformater her:
+<ulink url="http://efn.no/kodemus/">http://efn.no/kodemus/</ulink></para>
+
+<para>Tor Åge Bringsværds nettsted finner du her:
+<ulink url="http://web2.gyldendal.no/toraage/">http://web2.gyldendal.no/toraage/</ulink></para>
+
+<para>Filformat: .... </para>
+
+<para>ISBN-nummer: ....</para>
+
+<para>EFN arbeider for dine borgerrettigheter i IT-samfunnet, for
+nettverks- og delingskultur, personvern og frihet fra overvåkning,
+åpne standarder, brukerstyrt programvare, retten til å kopiere, og
+styrking av det digitale sivilsamfunnet m.m.
+<ulink url="http://www.efn.no/">www.efn.no</ulink></para>
+</colophon>
 </book>
