@@ -30,7 +30,7 @@
  <isbn>978-82-92812-02-0</isbn> <!-- format application/pdf -->
  <isbn>978-82-92812-03-7</isbn> <!-- format text/html -->
  <isbn>978-82-92812-04-4</isbn> <!-- format application/epub+zip -->
- <isbn>978-82-92812-05-1</isbn> <!-- format 5 -->
+ <isbn>978-82-92812-05-1</isbn> <!-- format application/docbook+xml -->
  <isbn>978-82-92812-06-8</isbn> <!-- format 6 -->
 </bookinfo>
 
@@ -757,7 +757,7 @@ Lillebrødrene går synkront.</para>
 <para>ISBN-nummer: 978-82-92812-02-0 (application/pdf)</para>
 <para>ISBN-nummer: 978-82-92812-03-7 (text/html)</para>
 <para>ISBN-nummer: 978-82-92812-04-4 (application/epub+zip)</para>
-<para>ISBN-nummer: 978-82-92812-05-1 (5)</para>
+<para>ISBN-nummer: 978-82-92812-05-1 (application/docbook+xml)</para>
 <para>ISBN-nummer: 978-82-92812-06-8 (6)</para>
 
 <para>EFN arbeider for dine borgerrettigheter i IT-samfunnet, for
