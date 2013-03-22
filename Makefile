@@ -9,7 +9,7 @@ lint: kodemus.xml
 	if true ; then \
 		dblatex -T simple $< ; \
 	else \
-	  xsltproc --output tmp.fo \
+	  xsltproc --output tmp.fo --stringparam paper.type A4 \
 	    /usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl \
 	    $< ; \
 	  fop -fo tmp.fo -pdf $@ ; \
