@@ -200,7 +200,13 @@ individets frihet og integritet.</para>
  </orderedlist>
 </para>
 
-<bridgehead>*</bridgehead>
+<informaltable frame="none">
+<tgroup cols="1" align='center'>
+<tbody>
+<row><entry>*</entry></row>
+</tbody>
+</tgroup>
+</informaltable>
 
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør
 og fortumlet myste han vantro mot Lillebror på nattbordet. <quote>Du
@@ -441,9 +447,15 @@ LENGER ENN INSTRUKS &ndash; KONKLUSJON III: FALT UTENFOR KODEX 70 &ndash; ÅRSAK
 &ndash; ÅRSAK?&ndash; ? ? ? ? ? ? ? ?  &ndash; TEKNISK ART? &ndash; SKADE? &ndash; FARE? &ndash;
 FARE I: EIERS BALANSE &ndash; FARE II: KUBE-BALANSE &ndash; FARE III:
 SAMFUNNS-BALANSE &ndash; EIER? &ndash; KODÉMUS &ndash; KONKLUSJON: KODÉMUS FARE &ndash;
-TILTAK? &ndash; TILTAK 120754::</computeroutput></para>
+TILTAK? &ndash; TILTAK 120754x</computeroutput></para>
 
-<bridgehead>*</bridgehead>
+<informaltable frame="none">
+<tgroup cols="1" align='center'>
+<tbody>
+<row><entry>*</entry></row>
+</tbody>
+</tgroup>
+</informaltable>
 
 <para>Kodémus våknet av at noen trettet.
 <?linebreak?>
