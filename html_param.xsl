@@ -3,8 +3,4 @@
   <xsl:template match="processing-instruction('linebreak')">
     <br/>
   </xsl:template>
-
-  <xsl:template match="processing-instruction('newscene')">
-    <hr/>
-  </xsl:template>
 </xsl:stylesheet> 
