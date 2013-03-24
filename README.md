@@ -1,7 +1,7 @@
 Kodémus
 =======
 
-DocBook-setting av Tor Åge Bringsværds novelle Kodemus. 
+DocBook-setting av Tor Åge Bringsværds novelle Kodemus.
 
 Layoutmessig bør vel sluttproduktet likne på novellen slik den er
 trykket - se html-filen i første innsjekking for noe som likner mye-
