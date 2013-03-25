@@ -1,7 +1,9 @@
+
 TARGETS = kodemus.pdf kodemus.epub kodemus.txt kodemus.html kodemus.mobi
+
 all: lint $(TARGETS)
 
-XMLLINTOPTS = --nonet --noout  --xinclude --postvalid 
+XMLLINTOPTS = --nonet --noout  --xinclude --postvalid
 lint: kodemus.xml
 	xmllint $(XMLLINTOPTS) $<
 

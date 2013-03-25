@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <?xml-stylesheet href="docbook-css-0.4/driver.css" type="text/css"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
-"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" 
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd"
 [
    <!ENTITY copy "©">
 ]>
@@ -42,12 +42,12 @@ til å nyutgi Tor Åge Bringsværds novelle Kodémus i digitalt format for
 nye (og gamle) generasjoner. Novellen ble skrevet så tidlig som
 vinteren 1968, og første gang trykt i novellesamlingen Probok på
 Gyldendal samme år. Senere nyutgitt i flere novellesamlinger
-(Elektriske Eventyr 1972; Karavane 1974; SF - Samlede fortellinger
+(Elektriske Eventyr 1972; Karavane 1974; SF &ndash; Samlede fortellinger
 1999).</para>
 
 <para>Informasjonsteknologi spiller en sentral rolle i Kodémus, og det
 er spennende å sammenligne beskrivelsen av IT fra 1968 med dagens IT i
-2013. Forskjellene er mange -- men det er jammen likhetene også.  Ikke
+2013. Forskjellene er mange &ndash; men det er jammen likhetene også.  Ikke
 minst det at idag går jo nesten alle rundt med lillebrødre på
 seg!</para>
 
@@ -104,12 +104,12 @@ individets frihet og integritet.</para>
    <listitem>
      <para>I sjakkbrettbyen står husene på stylter av stål. Skrever
      høyt over tungtrafikken på flettverket av sorte og hvite
-     gater. Husene er kuber koblet sammen med blanke navlestrenger -
+     gater. Husene er kuber koblet sammen med blanke navlestrenger &ndash;
      monorail og transportbånd. Byen er en maskin, glatt og
      harmonisk. Rytmisk, rasjonell, hensiktsmessig, presis. Hvert
      tannhjul kjenner sin funksjon. I det effektive samfunn går alt
      som planlagt. I DET EFFEKTIVE SAMFUNN GÅR ALT SOM DET
-     SKAL. Perpetuum mobile. </para>
+     SKAL. Perpetuum mobile.</para>
    </listitem>
    <listitem>
      <para>Kodémus har alltid Lillebror med seg. Lillebror vet
@@ -148,7 +148,7 @@ individets frihet og integritet.</para>
      <listitem><para>Staten overtar. Bygger Moxon
      I-II-III. Abonnentene får private mottakere. Er bare talerør for
      hovedhjernen, men betegnes feilaktig som
-     datamaskiner. Betegnelsen beholdt - sedvane.</para></listitem>
+     datamaskiner. Betegnelsen beholdt &ndash; sedvane.</para></listitem>
    </varlistentry>
    <varlistentry>
      <term>Forbedringstiden 2013-2043.</term>
@@ -158,7 +158,7 @@ individets frihet og integritet.</para>
      sentralhjernen.</para></listitem>
    </varlistentry>
    <varlistentry>
-     <term>Slutt på abonnementsordningen - 2043.</term>
+     <term>Slutt på abonnementsordningen &ndash; 2043.</term>
      <listitem><para>Utgiftene til private og offentlige
      mottakere/datamaskiner går over statsbudsjettet, Betales sammen
      med skatten.</para></listitem>
@@ -175,7 +175,7 @@ individets frihet og integritet.</para>
 
      <para>Hver morgen blir Kodémus vekket av Lillebror. Mens han kler
      seg og spiser frokost, minner Lillebror ham på alt han har å
-     gjøre. I monorailen - på vei til kontoret - drøfter Lillebror og
+     gjøre. I monorailen &ndash; på vei til kontoret &ndash; drøfter Lillebror og
      Kodémus dagens program. På kontoret arbeides det raskt og
      effektivt, ingen av funksjonærene er i tvil om hva som må gjøres
      og alle beslutninger er enstemmige. For alle lillebrødre går
@@ -183,7 +183,7 @@ individets frihet og integritet.</para>
      <?linebreak?><quote>Hva skal vi leke?</quote> sier barna. Eller:
      <quote>Hva skal vi finne på?</quote>
      <?linebreak?><quote>Spør Lillebror</quote> sier mor. <quote>Hva
-     synes du jeg skal lage til middag, Lillebror?</quote> </para>
+     synes du jeg skal lage til middag, Lillebror?</quote></para>
 
    </listitem>
    <listitem>
@@ -233,16 +233,16 @@ gjorde. Lillebror &hellip;</quote>
 Men Lillebror svarte ikke, bare surret svakt. Så er du i hvert
 fall ikke død, tenkte Kodémus. Han satte seg på sengen med Lillebror i
 armene. Satt og ventet. Hva annet kunne han gjøre? Det ville være
-galskap å handle på egen hånd. </para>
+galskap å handle på egen hånd.</para>
 
 <para>- Det mangler én mann, sa den automatiske portvakten.
 <?linebreak?>
 - Hvem er det? spurte personal-maskinen.
 <?linebreak?>
-- Klikk-klikk-klikk <emphasis>Kodémus</emphasis>. .
+- Klikk-klikk-klikk <emphasis>Kodémus</emphasis>.
 <?linebreak?>
 - Kodémus, gjentok personal-maskinen og spyttet ut et
-hullkort. 
+hullkort.
 <?linebreak?>
 - Kodémus, leste et fjernsynskamera og overførte bildet av
 hullkortet til alle avdelinger.
@@ -260,9 +260,9 @@ Selvfølgelig er det umulig å drepe en lillebror. Men det visste
 ikke Kodémus. Personalmaskinen visste det heller ikke. Derfor kan vi
 si: <emphasis>deres frykt var ugrunnet.</emphasis>
 <?linebreak?>
-Maskinkontrollen derimot - han <emphasis>visste</emphasis> at
+Maskinkontrollen derimot &ndash; han <emphasis>visste</emphasis> at
 det var umulig å drepe en lillebror, at det aldri var noe som slo
-klikk. Likevel kontrollerte han lillebrødrene med jevne mellomrom -
+klikk. Likevel kontrollerte han lillebrødrene med jevne mellomrom &ndash;
 for det var jobben hans å kontrollere <emphasis>alle</emphasis>
 maskiner. Men han visste godt at det var overflødig. En lillebror
 <emphasis>kan ikke</emphasis> gå i stykker. Siden maskin-kontrollen
@@ -271,7 +271,7 @@ begrunnet</emphasis>. For når ingenting kan skje, hva er det da som
 skjer?</para>
 
 <para>Lillebror åpnet langsomt de to runde kamera-øynene og så på
-Kodémus. Det skrapte i høyttaleren - i gittermunnen på lokket. Kodémus
+Kodémus. Det skrapte i høyttaleren &ndash; i gittermunnen på lokket. Kodémus
 holdt pusten.
 <?linebreak?>
 <quote>Hva er det jeg ser?</quote> sa Lillebror. <quote>Klokken er over ni, og du har ikke fått på deg buksen ennå!</quote>
@@ -323,20 +323,20 @@ veggene. <quote>Hvem vet best av oss?</quote> brølte han.
 Kodémus bøyde hodet. <quote>Du,</quote> sa han.
 <?linebreak?>
 <quote>Godt,</quote> sa den lille sorte kassen. <quote>Da går vi. Plukk meg opp, så
-går vi.</quote> 
+går vi.</quote>
 <?linebreak?>
 <quote>Hvorhen?</quote>
 <?linebreak?>
 <quote>I hvert fall ikke til kontoret,</quote> sa Lillebror tørt.
 <?linebreak?>
-<quote>Men må jeg ikke &hellip;</quote> 
+<quote>Men må jeg ikke &hellip;</quote>
 <?linebreak?>
 <quote>Enten du kommer for sent eller ikke kommer i det hele tatt,
 kommer ut på ett,</quote> sa Lillebror. <quote>Og du er jo allerede for sent ute,
 likevel, ikke sant? Så da kan du altså like godt la være å komme i det
 hele tatt. Ikke sant? Du forstår resonnementet?</quote>
 <?linebreak?>
-<quote>Nei,</quote> sa Kodémus. 
+<quote>Nei,</quote> sa Kodémus.
 <?linebreak?>
 <quote>Nei, selvfølgelig ikke,</quote> sukket Lillebror. <quote>Overlat alt til
 meg. Som vanlig. Jeg vet best. Og jeg sier at vi skal til &hellip; skal til
@@ -345,14 +345,14 @@ meg. Som vanlig. Jeg vet best. Og jeg sier at vi skal til &hellip; skal til
 <quote>Men det er ikke søndag i dag!</quote>
 <?linebreak?>
 <quote>Helt riktig,</quote> sa. Lillebror spydig. <quote>I dag er det ikke
-søndag. Til Parketasjen, Kodémus. Ett-To-Ett-To.</quote> 
+søndag. Til Parketasjen, Kodémus. Ett-To-Ett-To.</quote>
 <?linebreak?>
 Kodémus puttet Lillebror i jakkelommen og låste seg ut av
 leiligheten. <quote>Lillebror</quote> sa han fortvilet, <quote>vi kan ikke gå. dit på en
 alminnelig hverdag&hellip; midt i arbeidstiden&hellip; hva vil vel ikke
 &hellip;</quote>
 <?linebreak?>
-<quote>Hold kjeft - hold takten - Ett-To</quote> freste Lillebror nede i
+<quote>Hold kjeft &ndash; hold takten &ndash; Ett-To</quote> freste Lillebror nede i
 lommen. <quote>Gjør som jeg sier, ellers melder jeg deg!</quote>
 <?linebreak?>
 Og så gikk Kodémus og Lillebror til Parketasjen. De tok ikke
@@ -368,15 +368,15 @@ Kodémus, men Lillebror holdt stand.  Ikke én samtale slapp
 igjennom. Men den stadige kimingen gikk dem begge på nervene.</para>
 
 <para><quote>En lillebror som nekter å kommunisere med andre enn sin
-menneskelige partner: UMULIG,</quote> sa Maskinkontrollen - og
+menneskelige partner: UMULIG,</quote> sa Maskinkontrollen &ndash; og
 kortsluttet.</para>
 
 <para>Parketasjen er en firkantet skog med grønne vegger. Her går
 funksjonærene tur hver søndag. Det er ordentlige trær og ekte
 gress. Men solen er kunstig. Stor og gul brenner den høyt på den
 blåmalte himmelen. Taket er tredimensjonalt. Om kvelden- når de tenner
-stjernene - kan du bli svimmel av å se opp. Om dagen kjøres det skyer
-i langsom kino. 
+stjernene &ndash; kan du bli svimmel av å se opp. Om dagen kjøres det skyer
+i langsom kino.
 <?linebreak?>
 Midt i skogen ligger et tjern. Vannet er klart, og barna bader
 der puljevis om søndagene. Det er gratis.
@@ -404,7 +404,7 @@ Kodémus myste ned ved siden av seg. <quote>Fikset hva?</quote>
 <quote>Ringingen</quote> sa Lillebror fornøyd. <quote>Den fordømte
 telefonlåten. Det var ikke så vanskelig som jeg først trodde. Skal
 jeg spille litt musikk for deg? Er det noe bestemt du har lyst til å
-høre?</quote> 
+høre?</quote>
 <?linebreak?>
 <quote>Akkurat det samme</quote> sa Kodémus. <quote>Samme for meg.</quote>
 <?linebreak?>
@@ -418,13 +418,13 @@ samvittighet i det hele tatt. Det var Lillebrors sak å holde greie på
 rett og galt, dumt og fornuftig. Dessuten var det en varm dag og
 Lillebror hadde et utmerket stereoanlegg.</para>
 
-<para>Moxon XX lever i en underjordisk pyramide - en bombesikker
+<para>Moxon XX lever i en underjordisk pyramide &ndash; en bombesikker
 festning. Bare Moxon vet hvor den er. Moxon XX og de han åpenbarer det
 for. En elektronisk kjempeblekksprut med hundrevis av korridorer som
 fangarmer. Buktende, bankende, aldri i ro. Løpende lyspunkt, knitrende
 kabler. Varmt. Fuktig.  Noe gigantisk nakent og ekkelt oljeglatt i
-sentrum - som et pulserende hjerte. Et fjell av dissende gelé:
-Hjernen. Lyset skifter - langsomt, glidende: rødt, orange, gult,
+sentrum &ndash; som et pulserende hjerte. Et fjell av dissende gelé:
+Hjernen. Lyset skifter &ndash; langsomt, glidende: rødt, orange, gult,
 grønt, blått, indigo og fiolett. -Det lukter søtt, og veggene svetter
 i maskinsteken. Moxon XX er alene i pyramiden. Han snakker med seg
 selv. Spør og svarer. For eksempel slik: <computeroutput>EN MINI-SEKSJON L ER UTE AV
@@ -453,7 +453,7 @@ Kodémus glippet med øynene og så rett opp i en parkdame. Hun var
 midt i tyveårene, kledt i sølvgrå aluminiumsoverall og hadde grønt
 vaktbind på høyre overarm. Et stykke borte kjørte en automatisk
 gressklipper sikk-sakk mellom trærne, samtidig som den suget løv med
-fire snabler. 
+fire snabler.
 <?linebreak?>
 Det var ikke parkdamen selv som snakket, det var hennes
 lillesøster. Parkdamen var altfor overrasket til å få frem et
@@ -473,7 +473,7 @@ ikke ha. noe å gjøre med. Skulkere &ndash; samfunns-sviktere &hellip;</quote>
 Parkdamen skjøv håret vekk fra pannen. <quote>Dessverre</quote> sa hun, <quote>det
 passer ikke akkurat nå.</quote>
 <?linebreak?>
-<quote>Bort - bort - bort - bort,</quote> reglet Lillesøster.
+<quote>Bort &ndash; bort &ndash; bort &ndash; bort,</quote> reglet Lillesøster.
 <?linebreak?>
 <quote>Farvel</quote> sa Parkdamen. Hun snudde seg brått og løp sin
 vei. Gressklipperen fulgte i hælene på henne som en hund.
@@ -490,7 +490,7 @@ formiddagsparken.
 Etter hvert gikk det opp for Kodémus at Lillebror lo av
 ham.</para>
 
-<para>Tiltak 120754 x. 
+<para>Tiltak 120754 x.
 <?linebreak?>
 Sjekk. Hjernesjokk. Leddkrampe. Skjelver. Våkner. Kontakt.
 <?linebreak?>
@@ -499,7 +499,7 @@ kalde kjellerkister. Mørke oljebad. Vagger, rasler over
 stengulv. Drypper klisne spor. Stanser. Klebrig dam. Tørker
 hverandre. Glinser. Skimrer. Blått. Tause. Spør ikke. Vet.
 <?linebreak?>
-<emphasis>Tiltak 120754 x: Sherlockene - de blå metallmennene,
+<emphasis>Tiltak 120754 x: Sherlockene &ndash; de blå metallmennene,
 søkerrobotene, politimaskinene.</emphasis>
 <?linebreak?>
 Åpner låste hvelv. Plystrer kode. Noe brummer. Noen
@@ -516,11 +516,11 @@ på alle de han kjente som var gift. <quote>De kan ikke finne den rette til
 meg,</quote> la han til. <quote>Jeg er ikke den rette for noen. Og dessuten kan
 ikke alle være gift heller.</quote>
 <?linebreak?>
-Lillebror suste medfølende. 
+Lillebror suste medfølende.
 <?linebreak?>
 <quote>Det er jo du selv som har sagt det!</quote> sa Kodémus.
 <?linebreak?>
-<quote>Har jeg?</quote> sa Lillebror. '
+<quote>Har jeg?</quote> sa Lillebror.
 <?linebreak?>
 Ved utgangen støtte de på Parkdamen igjen. Hun skottet skremt
 mot dem og snudde seg raskt bort.
@@ -557,7 +557,7 @@ kjente parken ut og inn.
 bare gifte meg med deg!</emphasis></quote>
 <?linebreak?>
 Men Parkdamen løp videre, reflekterte solstrålene, blinket som
-et håndspeil mellom trestammene. Kanskje hun ikke hørte? 
+et håndspeil mellom trestammene. Kanskje hun ikke hørte?
 <?linebreak?>
 De løp over en åpen slette, en lang lysegrønn tunge. To
 vannspredere stanset forbauset og så etter dem. Det var i en av
@@ -568,12 +568,12 @@ etasjer.
 <?linebreak?>
 Kodémus tok ut de siste kreftene han hadde og spurtet frem til
 henne. Parkdamen satt i gresset og så opp på ham, ynket seg og holdt
-hendene omkring den venstre ankelen. Virket skremt - og litt
+hendene omkring den venstre ankelen. Virket skremt &ndash; og litt
 nysgjerrig. Men Kodémus var altfor andpusten til å kunne snakke. Og
 Lillesøster hylte som en flyalarm.
 <?linebreak?>
 <quote>Nå kan du gifte deg med henne,</quote> ropte Lillebror tvers gjennom
-brølet fra sirenen. 
+brølet fra sirenen.
 <?linebreak?>
 Kodémus smilte forlegent og satte seg på huk ved siden av
 Parkdamen. Hun var omtrent på hans egen alder, kanskje litt
@@ -583,7 +583,7 @@ yngre. Forsiktig bøyde han seg frem og kysset henne på kinnet.</para>
 langs de grønne veggene, slo krets om skogen. En lenke av stål. Lenken
 strammet seg. Robotene rykket innover mot sentrum. Snusedyrene ble
 sluppet. Blå skygger flakket urolig mellom trærne. Og hele tiden gikk
-sirenen. 
+sirenen.
 <?linebreak?>
 Utenfor sto det svart av folk. Nysgjerrige som ville se. Trengte
 seg på, men ble holdt tilbake av en magnetsperring. Det var ikke hver
@@ -615,15 +615,15 @@ Ingen stanset dem. De tok heisen opp til stasjonen. Og ingen
 ropte etter dem.
 <?linebreak?>
 Kodémus gjemte seg i mengden på perrongen, og steg på første tog
-som kom. (I det effektive samfunn er all transport gratis - og
+som kom. (I det effektive samfunn er all transport gratis &ndash; og
 helautomatisk.)
 <?linebreak?>
 Monorailen går i glassrør mellom kubene. Men hastigheten er for
-stor til at det nytter å se ut. Et blink av lys og himmel - og så er
+stor til at det nytter å se ut. Et blink av lys og himmel &ndash; og så er
 en fremme ved en ny perrong i en ny kube.
 <?linebreak?>
 Ingen av passasjerene snakket med hverandre. De fleste satt og
-hvisket med sine egne lillebrødre - hodet på skakke, kassen under
+hvisket med sine egne lillebrødre &ndash; hodet på skakke, kassen under
 kinnet. Andre bare satt.
 <?linebreak?>
 <quote>Løft meg opp,</quote> sa Lillebror ved hver stasjon.
@@ -639,7 +639,7 @@ rotet oss opp i?</quote>
 Passasjerer steg av og på. Kodémus ble sittende.
 <?linebreak?>
 Da de nesten hadde kjørt sløyfen rundt og var i nærheten av
-utgangspunktet, sa Lillebror endelig: <quote>Det er bare én utvei.</quote> 
+utgangspunktet, sa Lillebror endelig: <quote>Det er bare én utvei.</quote>
 <?linebreak?>
 Kodémus visste ikke hva han skulle si.
 <?linebreak?>
@@ -657,7 +657,7 @@ må gå av railen alene. Kanskje vi kan lure dem likevel.</quote>
 <?linebreak?>
 <quote>Slipp meg forsiktig ned i avfallsbøtten når du går,</quote> sa
 Lillebror. <quote>Eller har du noe bedre forslag?</quote> Den lille kassen forsøkte
-å le. <quote>Opp med hodet, Kodémus. Og slipp meg i bøtten.</quote> 
+å le. <quote>Opp med hodet, Kodémus. Og slipp meg i bøtten.</quote>
 <?linebreak?>
 <quote>Skal jeg <emphasis>legge</emphasis> deg igjen?</quote>
 <?linebreak?>
@@ -675,7 +675,7 @@ han skulle slippe Lillebror i bøtten, kjente han tårer i
 sikker på at &hellip;</quote>
 <?linebreak?>
 <quote>Slipp meg, din tulling,</quote> hveste den lille kassen i hånden
-hans. 
+hans.
 <?linebreak?>
 Andre passasjerer trengte på. Kodémus åpnet hånden og gikk ut av
 railen. Et øyeblikk sto han lammet. Bak ham gled dørene igjen og toget
@@ -686,7 +686,7 @@ skjøt fremover.</para>
 <para>Kodémus satte forsiktig det ene benet foran det andre. Og
 gikk. For første gang gikk han av seg selv. Han visste ikke hvor. Men
 det bekymret ham ikke. Han hadde aldri trengt å vite hvor han
-skulle. 
+skulle.
 <?linebreak?>
 På måfå albuet han seg ut av stasjonshallen. Ingen forsøkte å
 hindre ham. Kodémus fulgte en tilfeldig korridor. Satte det ene benet
@@ -696,7 +696,7 @@ foran det andre. Ble klar over at han gikk av seg selv.</para>
 
 <para>Han var alene i en fremmed kube. Ukjente korridornavn og
 trappenummer. Veggene hadde andre farver. Alle han møtte hadde noen å
-snakke med - i lommen, skuldervesken eller i hånden opp til øret. Bare
+snakke med &ndash; i lommen, skuldervesken eller i hånden opp til øret. Bare
 Kodémus var alene. Ingen så på ham. Ingen merket at han var
 der. Ett-To-Ett-To.</para>
 
@@ -708,7 +708,7 @@ steder, ingenting hendte, ingen sa hva han skulle gjøre; visste ikke,
 ingen kjente ham, sulten, sliten, stanset en mann i gul overall, en
 funksjonær av samme type som han selv, ville snakke med ham, spørre,
 fikk ikke åpnet munnen, tungen tørr, mannen ristet hånden av seg, <quote>har
-ikke tid</quote> sa mavetasken. 
+ikke tid</quote> sa mavetasken.
 <?linebreak?>
 Og i det effektive samfunn er det ingen benker til å hvile
 på.
@@ -721,10 +721,10 @@ Glade arbeidere skrittet over ham på vei til B-skiftet. Kodémus
 så langt etter dem, og nynnet hest i takt med musikken fra
 lillebrødrene deres.
 <?linebreak?>
-DET ER IKKE GODT FOR MENNESKET Å VÆRE ALENE 
+DET ER IKKE GODT FOR MENNESKET Å VÆRE ALENE
 <?linebreak?>
 Noe hadde hendt. Et eller annet han ikke forsto. Bare at det
-satte ham utenfor. Kodémus satt utenfor og ville inn. 
+satte ham utenfor. Kodémus satt utenfor og ville inn.
 <?linebreak?>
 DET ER IKKE GODT FOR MENNESKET Å VÆRE ANNERLEDES
 <?linebreak?>
@@ -732,19 +732,19 @@ Han så på de trygge ansiktene omkring seg. Harmoniske, effektive
 mennesker med målbevisste skritt mot samfunnsnyttige oppgaver. Kodémus
 kjente seg meningsløs.  Han var så godt som død.
 <?linebreak?>
-Han var død, 
+Han var død,
 <?linebreak?>
-MENNESKET ER ET SOSIALT VESEN 
+MENNESKET ER ET SOSIALT VESEN
 <?linebreak?>
 Da sherlockene fant ham (for selvfølgelig gjorde de det) brast
-han i gråt, og omfavnet de kalde snusedyrene. 
+han i gråt, og omfavnet de kalde snusedyrene.
 <?linebreak?>
 Og Kodémus ble ført tilbake til hjorden.</para>
 
 <para>Nå har Kodémus fått en ny Lillebror. Hver morgen blir Kodémus
 vekket av Lillebror. Mens han kler seg og spiser frokost, minner
-Lillebror ham på alt han har å gjøre. I monorailen - på vei til
-kontoret - drøfter Lillebror og Kodémus dagens program. På kontoret
+Lillebror ham på alt han har å gjøre. I monorailen &ndash; på vei til
+kontoret &ndash; drøfter Lillebror og Kodémus dagens program. På kontoret
 arbeides det raskt og effektivt, ingen av funksjonærene er i tvil om
 hva som må gjøres og alle beslutninger er enstemmige. Alle
 Lillebrødrene går synkront.</para>
