@@ -1,6 +1,11 @@
 Kodémus
 =======
 
+
+Videre arbeide skal skje i EFNs Git-repository, https://github.com/EFN/kodemus.
+
+
+
 DocBook-setting av Tor Åge Bringsværds novelle Kodemus. 
 
 Layoutmessig bør vel sluttproduktet likne på novellen slik den er
