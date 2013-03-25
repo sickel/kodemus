@@ -1,4 +1,4 @@
-TARGETS = kodemus.pdf kodemus.epub kodemus.txt kodemus.html 
+TARGETS = kodemus.pdf kodemus.epub kodemus.txt kodemus.html kodemus.mobi
 all: lint $(TARGETS)
 
 XMLLINTOPTS = --nonet --noout  --xinclude --postvalid 
@@ -21,6 +21,8 @@ lint: kodemus.xml
 	xmlto -x stylesheet-html.xsl txt $<
 %.html: %.xml
 	xmlto -x stylesheet-html.xsl html-nochunks $<
+%.mobi: %.epub
+	ebook-convert $< $@
 
 clean:
 	$(RM) $(TARGETS)
